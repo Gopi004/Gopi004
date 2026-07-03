@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Gopikrishna!
-- 🎓 B.Tech Student | 💻 Aspiring Developer | 🎨 Creative Thinker | ⚽ Football Enthusiast
+- 🎓 B.Tech Student | 💻 Web Developer | 🎨 Creative Thinker | ⚽ Football Enthusiast
 - 👀 Interested in Coding and building intuitive websites, Drawing and digital sketching, Football, both playing and following, Learning through online courses and tech communities
-- 🌱 I’m currently learning C++.
 - 📫 How to reach me:
   📧 Email: gopikrishnapramod@gmail.com
 
