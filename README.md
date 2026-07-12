@@ -13,8 +13,9 @@ Passionate about building intelligent web applications, I enjoy bridging the gap
 ---
 
 ##  📫 Reach Out
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gopikrishnapramod/)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gopikrishnapramod@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gopikrishnapramod/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gopikrishnapramod@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://gopi004.github.io/Portfolio/)
 
 ---
 
